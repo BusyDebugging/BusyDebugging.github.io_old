@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" >
+
+<title>G001 - 如何截屏 / 录屏 | BusyDebugging&#39;s Blog</title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+<link rel="shortcut icon" href="https://BusyDebugging.github.io/favicon.ico?v=1691927276960">
+<link rel="stylesheet" href="https://BusyDebugging.github.io/styles/main.css">
+
+
+
+<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+
+
+
+    <meta name="description" content="前言
+截屏或录屏是使用电脑时非常常见的操作，毕竟你也不能只靠拍屏记录一切。如果你不知道如何便捷地截屏或录屏，或者仍在使用某V录屏的话，这篇文章会对你有帮助。
+截屏
+Print Screen 键
+这个按键一般位于键盘的最上方一行，在 inse..." />
+    <meta name="keywords" content="TH4B" />
+  </head>
+  <body>
+    <div id="app" class="main">
+
+      <div class="sidebar" :class="{ 'full-height': menuVisible }">
+  <div class="top-container" data-aos="fade-right">
+    <div class="top-header-container">
+      <a class="site-title-container" href="https://BusyDebugging.github.io">
+        <img src="https://BusyDebugging.github.io/images/avatar.png?v=1691927276960" class="site-logo">
+        <h1 class="site-title">BusyDebugging&#39;s Blog</h1>
+      </a>
+      <div class="menu-btn" @click="menuVisible = !menuVisible">
+        <div class="line"></div>
+      </div>
+    </div>
+    <div>
+      
+        
+          <a href="/" class="site-nav">
+            首页
+          </a>
+        
+      
+        
+          <a href="/archives" class="site-nav">
+            归档
+          </a>
+        
+      
+        
+          <a href="/tags" class="site-nav">
+            标签
+          </a>
+        
+      
+        
+          <a href="/post/about" class="site-nav">
+            关于
+          </a>
+        
+      
+    </div>
+  </div>
+  <div class="bottom-container" data-aos="flip-up" data-aos-offset="0">
+    <div class="social-container">
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    </div>
+    <div class="site-description">
+      只是随便写点什么
+    </div>
+    <div class="site-footer">
+      Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a> | <a class="rss" href="https://BusyDebugging.github.io/atom.xml" target="_blank">RSS</a>
+    </div>
+  </div>
+</div>
+
+
+      <div class="main-container">
+        <div class="content-container" data-aos="fade-up">
+          <div class="post-detail">
+            <h2 class="post-title">G001 - 如何截屏 / 录屏</h2>
+            <div class="post-date">2023-08-13</div>
+            
+            <div class="post-content" v-pre>
+              <h2 id="前言">前言</h2>
+<p>截屏或录屏是使用电脑时非常常见的操作，毕竟你也不能只靠拍屏记录一切。如果你不知道如何便捷地截屏或录屏，或者仍在使用某V录屏的话，这篇文章会对你有帮助。</p>
+<h2 id="截屏">截屏</h2>
+<h3 id="print-screen-键"><code>Print Screen</code> 键</h3>
+<p>这个按键一般位于键盘的最上方一行，在 <code>insert</code> 键上方。按下它就能够把整个屏幕的截图保存在剪切板，用 <code>Ctrl + V</code> 就能将其粘贴出来。</p>
+<p>另外，如果同时按下 <code>Alt + Print Screen</code> 键，就能够获取当前窗口的截图，使用方法同上。</p>
+<p>在 Windows 11 中，<code>Print Screen</code> 键会唤起系统截图，使用方法请参阅下文。</p>
+<h3 id="win-shift-s-键"><code>Win + Shift + S</code> 键</h3>
+<p>在 Win 10 / 11 中，这个组合键能够唤起系统截屏，上方会显示四种模式和一个关闭按钮：</p>
+<h4 id="矩形模式">矩形模式</h4>
+<p>用鼠标圈出一块矩形区域，然后松开鼠标，就能进行截图。</p>
+<h4 id="自由形状模式">自由形状模式</h4>
+<p>用鼠标圈出一块任意形状的区域，然后松开鼠标，就能进行截图。</p>
+<h4 id="窗口模式">窗口模式</h4>
+<p>用鼠标点击需要截图的窗口，就能进行截图。</p>
+<h4 id="全屏模式">全屏模式</h4>
+<p>点击该模式的按钮后，就会对全屏进行截图。</p>
+<p>截图完成后会将图片保存到剪切板中，一般可以直接点击右侧通知栏的截屏信息来修改和保存截图。</p>
+<h3 id="截图工具">截图工具</h3>
+<p>这个工具存在于 Win 7 ~ 11 中，可通过在开始菜单搜索“截图工具”打开，具体截图方式可以参照软件内指引。</p>
+<h2 id="录屏">录屏</h2>
+<h3 id="win-alt-r-键"><code>Win + Alt + R</code> 键</h3>
+<p>按下之后启动 Xbox Game Bar的捕获功能（一般默认安装于 Win 10 / 11 当中），录制过程中默认会在右上方显示悬浮窗，能够显示当前录制的时长，控制麦克风开关和停止录制。录制结束后可以按下 <code>Win + G</code> 来查看录制的视频，默认保存于系统视频文件夹中。</p>
+<h3 id="obs-studio">OBS Studio</h3>
+<p><strong>官网：https://obsproject.com/</strong></p>
+<p>一款开源、专业的直播 / 录制软件。一定要在上方的官网上下载，搜索引擎的结果可能是假的官网。按照自己的系统下载对应版本的安装包后，打开并安装。第一次启动会进行初始设置，按照提示和自己的喜好进行设置即可。</p>
+<p>设置完成后，先点击“来源”底下的“+”添加来源，常用选项为显示器采集和窗口采集。显示器采集能够捕获整个屏幕，而窗口采集能够精准捕获某一个窗口的视频。</p>
+<p><em>最后编辑于 2023年8月13日 by Not_Black</em></p>
+
+            </div>
+            
+              <div class="tag-container">
+                
+                  <a href="https://BusyDebugging.github.io/tag/jCSrKYlUU/" class="tag">
+                    TH4B
+                  </a>
+                
+              </div>
+            
+            
+
+            
+
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+<script type="application/javascript">
+
+AOS.init();
+
+var app = new Vue({
+  el: '#app',
+  data: {
+    menuVisible: false,
+  },
+})
+
+</script>
+
+
+
+
+
+
+  </body>
+</html>
