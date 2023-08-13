@@ -39,6 +39,22 @@
         <description></description>
         </item>
         <item>
+        <title>privacy</title>
+        <link>http://example.org/tags/privacy/</link>
+        <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>http://example.org/tags/privacy/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>shortcodes</title>
+        <link>http://example.org/tags/shortcodes/</link>
+        <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>http://example.org/tags/shortcodes/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>ماركداون</title>
         <link>http://example.org/tags/%D9%85%D8%A7%D8%B1%D9%83%D8%AF%D8%A7%D9%88%D9%86/</link>
         <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
