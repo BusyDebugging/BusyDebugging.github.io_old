@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on My New Hugo Site</title>
+        <link>http://example.org/posts/</link>
+        <description>Recent content in Posts on My New Hugo Site</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Sat, 19 Aug 2023 19:18:26 +0800</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>G001 - 如何截屏 / 录屏</title>
+        <link>http://example.org/posts/general/g001/</link>
+        <pubDate>Sat, 19 Aug 2023 19:18:26 +0800</pubDate>
+        
+        <guid>http://example.org/posts/general/g001/</guid>
+        <description>&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
+&lt;p&gt;截屏或录屏是使用电脑时非常常见的操作，毕竟你也不能只靠拍屏记录一切。如果你不知道如何便捷地截屏或录屏，或者仍在使用某V录屏的话，这篇文章会对你有帮助。&lt;/p&gt;
+&lt;h2 id=&#34;截屏&#34;&gt;截屏&lt;/h2&gt;
+&lt;h3 id=&#34;print-screen-键&#34;&gt;&lt;code&gt;Print Screen&lt;/code&gt; 键&lt;/h3&gt;
+&lt;p&gt;这个按键一般位于键盘的最上方一行，在 &lt;code&gt;insert&lt;/code&gt; 键上方。按下它就能够把整个屏幕的截图保存在剪切板，用 &lt;code&gt;Ctrl + V&lt;/code&gt; 就能将其粘贴出来。&lt;/p&gt;
+&lt;p&gt;另外，如果同时按下 &lt;code&gt;Alt + Print Screen&lt;/code&gt; 键，就能够获取当前窗口的截图，使用方法同上。&lt;/p&gt;
+&lt;p&gt;在 Windows 11 中，&lt;code&gt;Print Screen&lt;/code&gt; 键会唤起系统截图，使用方法请参阅下文。&lt;/p&gt;
+&lt;h3 id=&#34;win--shift--s-键&#34;&gt;&lt;code&gt;Win + Shift + S&lt;/code&gt; 键&lt;/h3&gt;
+&lt;p&gt;在 Win 10 / 11 中，这个组合键能够唤起系统截屏，上方会显示四种模式和一个关闭按钮：&lt;/p&gt;
+&lt;h4 id=&#34;矩形模式&#34;&gt;矩形模式&lt;/h4&gt;
+&lt;p&gt;用鼠标圈出一块矩形区域，然后松开鼠标，就能进行截图。&lt;/p&gt;
+&lt;h4 id=&#34;自由形状模式&#34;&gt;自由形状模式&lt;/h4&gt;
+&lt;p&gt;用鼠标圈出一块任意形状的区域，然后松开鼠标，就能进行截图。&lt;/p&gt;
+&lt;h4 id=&#34;窗口模式&#34;&gt;窗口模式&lt;/h4&gt;
+&lt;p&gt;用鼠标点击需要截图的窗口，就能进行截图。&lt;/p&gt;
+&lt;h4 id=&#34;全屏模式&#34;&gt;全屏模式&lt;/h4&gt;
+&lt;p&gt;点击该模式的按钮后，就会对全屏进行截图。&lt;/p&gt;
+&lt;p&gt;截图完成后会将图片保存到剪切板中，一般可以直接点击右侧通知栏的截屏信息来修改和保存截图。&lt;/p&gt;
+&lt;h3 id=&#34;截图工具&#34;&gt;截图工具&lt;/h3&gt;
+&lt;p&gt;这个工具存在于 Win 7 ~ 11 中，可通过在开始菜单搜索“截图工具”打开，具体截图方式可以参照软件内指引。&lt;/p&gt;
+&lt;h2 id=&#34;录屏&#34;&gt;录屏&lt;/h2&gt;
+&lt;h3 id=&#34;win--alt--r-键&#34;&gt;&lt;code&gt;Win + Alt + R&lt;/code&gt; 键&lt;/h3&gt;
+&lt;p&gt;按下之后启动 Xbox Game Bar的捕获功能（一般默认安装于 Win 10 / 11 当中），录制过程中默认会在右上方显示悬浮窗，能够显示当前录制的时长，控制麦克风开关和停止录制。录制结束后可以按下 &lt;code&gt;Win + G&lt;/code&gt; 来查看录制的视频，默认保存于系统视频文件夹中。&lt;/p&gt;
+&lt;h3 id=&#34;obs-studio&#34;&gt;OBS Studio&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;官网：https://obsproject.com/&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;一款开源、专业的直播 / 录制软件。一定要在上方的官网上下载，搜索引擎的结果可能是假的官网。按照自己的系统下载对应版本的安装包后，打开并安装。第一次启动会进行初始设置，按照提示和自己的喜好进行设置即可。&lt;/p&gt;
+&lt;p&gt;设置完成后，先点击“来源”底下的“+”添加来源，常用选项为显示器采集和窗口采集。显示器采集能够捕获整个屏幕，而窗口采集能够精准捕获某一个窗口的视频。&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;最后编辑于 2023年8月13日 by Not_Black&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a class=&#34;link&#34; href=&#34;http://example.org/index.md&#34; &gt;返回&lt;/a&gt; &lt;a class=&#34;link&#34; href=&#34;../G002/G002.md&#34; &gt;下一篇 (G002)&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
