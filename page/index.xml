@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Pages on BusyDebugging&#39;s Blog</title>
+        <link>https://busydebugging.cn:6001/page/</link>
+        <description>Recent content in Pages on BusyDebugging&#39;s Blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <lastBuildDate>Sat, 19 Aug 2023 21:53:55 +0800</lastBuildDate><atom:link href="https://busydebugging.cn:6001/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>关于</title>
+        <link>https://busydebugging.cn:6001/page/about/</link>
+        <pubDate>Sat, 19 Aug 2023 21:53:55 +0800</pubDate>
+        
+        <guid>https://busydebugging.cn:6001/page/about/</guid>
+        <description>&lt;p&gt;BusyDebugging&amp;rsquo;s Blog&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>总目录</title>
+        <link>https://busydebugging.cn:6001/page/archives/</link>
+        <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://busydebugging.cn:6001/page/archives/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>友情链接</title>
+        <link>https://busydebugging.cn:6001/page/links/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://busydebugging.cn:6001/page/links/</guid>
+        <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

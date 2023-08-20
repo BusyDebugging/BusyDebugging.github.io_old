@@ -1,21 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>BusyDebugging&#39;s Blog</title>
-        <link>https://busydebugging.cn:6001/</link>
-        <description>Recent content on BusyDebugging&#39;s Blog</description>
+        <title>Posts on BusyDebugging&#39;s Blog</title>
+        <link>https://busydebugging.cn:6001/post/</link>
+        <description>Recent content in Posts on BusyDebugging&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <lastBuildDate>Sat, 19 Aug 2023 21:53:55 +0800</lastBuildDate><atom:link href="https://busydebugging.cn:6001/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>关于</title>
-        <link>https://busydebugging.cn:6001/page/about/</link>
-        <pubDate>Sat, 19 Aug 2023 21:53:55 +0800</pubDate>
-        
-        <guid>https://busydebugging.cn:6001/page/about/</guid>
-        <description>&lt;p&gt;BusyDebugging&amp;rsquo;s Blog&lt;/p&gt;
-</description>
-        </item>
-        <item>
+        <lastBuildDate>Sat, 19 Aug 2023 19:18:26 +0800</lastBuildDate><atom:link href="https://busydebugging.cn:6001/post/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>T001 - 如何截屏 / 录屏</title>
         <link>https://busydebugging.cn:6001/post/tech/t001/</link>
         <pubDate>Sat, 19 Aug 2023 19:18:26 +0800</pubDate>
@@ -49,24 +40,6 @@
     &gt;https://obsproject.com&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;一款开源、专业的直播 / 录制软件。一定要在上方的官网上下载，搜索引擎的结果可能是假的官网。按照自己的系统下载对应版本的安装包后，打开并安装。第一次启动会进行初始设置，按照提示和自己的喜好进行设置即可。&lt;/p&gt;
 &lt;p&gt;设置完成后，先点击“来源”底下的“+”添加来源，常用选项为显示器采集和窗口采集。显示器采集能够捕获整个屏幕，而窗口采集能够精准捕获某一个窗口的视频。&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>总目录</title>
-        <link>https://busydebugging.cn:6001/page/archives/</link>
-        <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://busydebugging.cn:6001/page/archives/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>友情链接</title>
-        <link>https://busydebugging.cn:6001/page/links/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://busydebugging.cn:6001/page/links/</guid>
-        <description>&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
 </description>
         </item>
         
